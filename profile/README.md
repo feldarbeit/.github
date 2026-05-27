@@ -2,7 +2,7 @@
 
 # feldarbeit.ai
 
-**Ich baue das Digitale. Sie das Geschäft.**
+**Sie führen das Geschäft. Das Digitale baue ich.**
 
 [feldarbeit.ai](https://feldarbeit.ai)
 
