@@ -2,7 +2,8 @@
 
 # feldarbeit.ai
 
-**Sie führen das Geschäft. Das Digitale baue ich.**
+**Mehr Anfragen, mehr Kunden, mehr Umsatz.**
+Sie führen Ihr Geschäft. Das Digitale baue ich.
 
 [feldarbeit.ai](https://feldarbeit.ai)
 
@@ -10,14 +11,14 @@
 
 ---
 
-## Was wir machen
+## Was ich mache
 
-Solo-Agentur für KMU, die digitale Fundamente brauchen ohne sich um Tech zu kümmern. Vollservice aus einer Hand.
+Solo-Operator für KMU, die digitale Fundamente brauchen, ohne sich um Technik zu kümmern. Vollservice aus einer Hand, ein Ansprechpartner: ich.
 
 - **Website-Foundation.** Ihr Auftritt auf modernem Stack. Schnell, sauber, eigenständig betreibbar.
-- **Lokale Sichtbarkeit.** Google Business Profile, lokale Rankings, Reviews. Wir machen Ihr Geschäft auf der Karte sichtbar.
+- **Lokale Sichtbarkeit.** Google Business Profile, lokale Rankings, Reviews. Ich mache Ihr Geschäft auf der Karte sichtbar.
 - **Vertriebs-Pipelines.** B2B-Adresslisten, Lead-Recherche, Outbound. Sie sprechen mit Kunden, nicht mit Datenbanken.
-- **Automationen.** Wiederkehrende Aufgaben übernimmt unser Hermes-Agent. Im Hintergrund.
+- **Automationen.** Wiederkehrende Aufgaben übernimmt mein Hermes-Agent. Im Hintergrund.
 
 ## Projekte
 
